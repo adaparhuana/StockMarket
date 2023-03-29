@@ -73,13 +73,7 @@ KPIs:
 Los indicadores que se tomaron en cuenta son los siguientes:
 1.	**Estacionalidad en los retornos:** Se encontraron patrones regulares y predecibles en el comportamiento en los mercados de valores. Los casos más comunes han sido los efectos de los días **viernes** (el rendimiento de los viernes es en promedio mayor al resto de días de la semana). Siento el mejor día para invertir. Un efecto contrario a los lunes.
 
-2.	Cantidad de películas por plataforma con un puntaje mayor a XX en determinado año (la función debe llamarse get_score_count (platform, scored, year)).
 
-3.	Cantidad de películas por plataforma con filtro de PLATAFORMA. (La función debe llamarse get_count_platform (platform)).
-
-4.	Actor que más se repite según plataforma y año. (La función debe llamarse get_actor (platform, year)).
-
-Link de la API (Se necesita estar registrado en https://www.deta.space) : [Ir a la API](https://deta.space/discovery/r/fwh64xt3w8oaqhdv)
 
 ## VISIÓN DE MERCADO
 
