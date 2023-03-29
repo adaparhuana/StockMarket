@@ -4,21 +4,34 @@
 
 
 ## **Contenido:**
+
 <li><a href="#INTRODUCCIÓN">INTRODUCCIÓN</a></li>
 <li><a href="#OBJETIVO">OBJETIVO</a></li>
 <li><a href="#WORKFLOW">WORKFLOW</a></li>
 <li><a href="#EDA">EDA </a></li>
 <li><a href="#DASHBOARD">DASHBOARD</a></li>
-<li><a href="#VISIÓN DE MERCADO">VISIÓN DE MERCADO"</a></li>
-<li><a href="#RECOMENDACIÓN DE INVERSIÓN">RECOMENDACIÓN DE INVERSIÓN"</a></li>
-
+<li><a href="#VISIÓN DE MERCADO">VISIÓN DE MERCADO</a></li>
+<li><a href="#RECOMENDACIÓN DE INVERSIÓN">RECOMENDACIÓN DE INVERSIÓN</a></li>
 
 ## INTRODUCCIÓN
 
 Como parte de la etapa de labs de Data Science en Henry se nos asignó en el rol de Data Analyst. Realizar una recomendación de inversión.
 
+**> Situación del mercado bursátil en los últimos 23 años**
 
-Para este proyecto se recolecto fuentes de información fidedigna...
+El mercado bursátil ha experimentado diferentes tendencias y volatilidades en los ùltimos 20 años, aquí algunas hechos más relevantes:
+
+1. El auge de las empresas de tecnología: En la década de 1990, hubo un auge en las empresas de tecnología, especialmente en el sector de Internet. Esto llevó a un aumento en el índice NASDAQ, que alcanzó su punto máximo en marzo de 2000 antes de sufrir una corrección significativa.
+
+2. La recesión de 2001: Después del auge de las empresas de tecnología, el mercado bursátil sufrió una caída significativa en 2001 debido a la recesión económica.
+
+3. La burbuja inmobiliaria: A mediados de la década de 2000, hubo un aumento en la inversión en bienes raíces que llevó a una burbuja inmobiliaria. Sin embargo, esta burbuja estalló en 2008, lo que llevó a la Gran Recesión.
+
+4. La recuperación después de la Gran Recesión: Después de la Gran Recesión, el mercado bursátil se recuperó significativamente. El índice S&P 500 alcanzó un máximo histórico en septiembre de 2018.
+
+5. La pandemia de COVID-19: La pandemia de COVID-19 tuvo un impacto significativo en el mercado bursátil en 2020, con una caída significativa en marzo de 2020, seguida de una rápida recuperación.
+
+En resumen, el mercado bursátil ha experimentado muchas tendencias y volatilidades en los últimos 23 años, pero ha demostrado ser bastante resistente y capaz de recuperarse de las caídas significativas.
 
 ## OBJETIVO
 
@@ -27,11 +40,6 @@ Para este proyecto se recolecto fuentes de información fidedigna...
     + Visión de mercado
 + Recomendación de inversión
 + Información complementaria
-
-**> Situación del mercado bursátil en los últimos 23 años**
-
-
-
 
 
 ## WORKFLOW
@@ -59,36 +67,22 @@ DESCRIPCIÓN S&P500
 
 ## EDA(ETL)
 
-EL proceso de EDA consistió en utilizar técnicas y herramientas 
-para analizar y explorar los datos con el objetivo de obtener información útil para la realizar nuestro de Recomendación de inversión.
+EL proceso de EDA consistió en utilizar técnicas y herramientas para analizar y explorar los datos con el objetivo de obtener información útil para realizar nuestra Recomendación de inversión.
+
+[Datasets](https://drive.google.com/drive/folders/1HLLncYgMg35GiNtqYbf_btUYVTNELbLh?usp=share_link)
 
 ## DASHBOARD
 
-[Dashboard Stock Market](link)
-
-![imagen1](xx/xx.png) 
-
-KPIs:
-
-Los indicadores que se tomaron en cuenta son los siguientes:
-1.	**Estacionalidad en los retornos:** Se encontraron patrones regulares y predecibles en el comportamiento en los mercados de valores. Los casos más comunes han sido los efectos de los días **viernes** (el rendimiento de los viernes es en promedio mayor al resto de días de la semana). Siento el mejor día para invertir. Un efecto contrario a los lunes.
-
+[Dashboard Stock Market](https://drive.google.com/file/d/1_E5f8k3WCu7c33-9eIloDEBn0Xh75fEE/view?usp=share_link)
 
 
 ## VISIÓN DE MERCADO
 
-xxxxx
-
-
-
-
-## VISIÓN DE MERCADO
-
-xxxxxx
+<a href="https://ibb.co/P4mcx94"><img src="https://i.ibb.co/ft1kMnt/stock-Market.png" alt="stock-Market" border="0"></a>
 
 
 ## RECOMENDACIÓN DE INVERSIÓN
 
-xxxxx
+<a href="https://finance.yahoo.com/quote/XLK?p=XLK&.tsrc=fin-srch"><img src="https://i.ibb.co/FsYnLxn/XLK.png" alt="XLK" border="0"></a>
 
 
