@@ -79,7 +79,7 @@ Los indicadores que se tomaron en cuenta son los siguientes:
 
 xxxxx
 
-Puedes entrar al sistema de recomendación de películas desde el siguiente [link](https://huggingface.co/spaces/adaap/Streaming)
+
 
 
 ## VISIÓN DE MERCADO
