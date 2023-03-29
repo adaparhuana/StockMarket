@@ -57,7 +57,7 @@ DESCRIPCIÓN S&P500
 | GICS Sector | El sector GICS (Global Industry Classification Standard) al que pertenece una acción en particular. | 
 | GICS Sub-Industry | La sub-industria GICS a la que pertenece una acción en particular.  | 
 
-## EDA
+## EDA(ETL)
 
 EL proceso de EDA consistió en utilizar técnicas y herramientas 
 para analizar y explorar los datos con el objetivo de obtener información útil para la realizar nuestro de Recomendación de inversión.
