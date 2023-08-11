@@ -56,7 +56,7 @@ En resumen, el mercado bursátil ha experimentado muchas tendencias y volatilida
 
 ### Recomendación de inversión
 
-<a href="https://finance.yahoo.com/quote/XLK?p=XLK&.tsrc=fin-srch"><img src="https://i.ibb.co/FsYnLxn/XLK.png" alt="XLK" border="0"></a>
+<a href="https://imgbb.com/"><img src="assets\c_medias.png" alt="space" width="1000" height="450"></a>
 
 ## EDA
 EL proceso de EDA consistió en utilizar técnicas y herramientas para analizar y explorar los datos con el objetivo de obtener información útil para realizar la recomendación de inversión. 
@@ -75,6 +75,26 @@ DICCIONARIO DE DATOS
 | Symbol | código de identificación único utilizado para identificar una acción en particular. | 
 | GICS Sector | El sector GICS (Global Industry Classification Standard) al que pertenece una acción en particular. | 
 | GICS Sub-Industry | La sub-industria GICS a la que pertenece una acción en particular.  | 
+
+### Análisis Exploratorio S&P500
+
+<a href="https://imgbb.com/"><img src="assets\gspc.png" alt="space" width="1000" height="450"></a>
+
+*En los precios del índice S&P500, vemos que para el 2009 el valor High estuvo por debajo de la media durante mucho tiempo, por lo que podemos decir que hubo algunas pérdidas debido a  momentos de mayor incertidumbre.*
+
+<a href="https://imgbb.com/"><img src="assets\r_day.png" alt="space" width="1000" height="450"></a>
+
+*Se encontraron patrones regulares y predecibles en el comportamiento de las acciones del índice SP500. Los casos más comunes han sido los efectos de los días jueves (el rendimiento de los jueves es en promedio mayor al resto de días de la semana). Siento el mejor día para invertir. Un efecto contrario a los lunes.*
+
+<a href="https://imgbb.com/"><img src="assets\r_sector.png" alt="space" width="1000" height="450"></a>
+
+*Durante los últimos años, el sector de tecnología ha experimentado un crecimiento constante en su rendimiento acumulativo, superando a otros sectores. Esto podría sugerir una fase de auge en la industria tecnológica durante ese período.*
+
+<a href="https://imgbb.com/"><img src="assets\c_sector.png" alt="space" width="1000" height="450"></a>
+
+*En el S&P 500, los sectores con la mayor cantidad de empresas son el sector industrial, el sector financiero, el sector tecnológico y el sector de Salud.*
+
+*La cantidad de empresas que conforman un sector en el S&P 500 resulta de la diversidad inherente a la economía y al mercado financiero, así como de la amplia variedad de industrias y segmentos*
 
 ## Stack tecnológico
 
