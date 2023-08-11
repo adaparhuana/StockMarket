@@ -96,6 +96,8 @@ DICCIONARIO DE DATOS
 
 *La cantidad de empresas que conforman un sector en el S&P 500 resulta de la diversidad inherente a la economía y al mercado financiero, así como de la amplia variedad de industrias y segmentos*
 
+<a href="https://imgbb.com/"><img src="assets\sharpe.png" alt="space" width="1000" height="450"></a>
+
 ## Stack tecnológico
 
 + Python
