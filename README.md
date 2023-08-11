@@ -3,23 +3,39 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/crQFVxr/P2.png" alt="space" width="1000" height="450"></a>
 
 
-## **Contenido:**
+<!-- TABLA DE CONTENIDO -->
+## Indice
+<details open="open">
+  <summary>Tabla de contenido: </summary>
+  <ol>
+    <li>
+      <a href="#Introducción">Introducción</a>
+    </li>
+    <li>
+      <a href="#Objetivo">Objetivo</a>
+    </li>
+    <li>
+      <a href="#EDA">EDA</a>
+    </li>
+    <li>
+      <a href="#Stack-tecnológico">Stack tecnológico</a>
+    </li>       
+  </ol>
+</details>
 
-<li><a href="#INTRODUCCIÓN">INTRODUCCIÓN</a></li>
-<li><a href="#OBJETIVO">OBJETIVO</a></li>
-<li><a href="#WORKFLOW">WORKFLOW</a></li>
-<li><a href="#EDA">EDA </a></li>
-<li><a href="#DASHBOARD">DASHBOARD</a></li>
-<li><a href="#VISIÓN DE MERCADO">VISIÓN DE MERCADO</a></li>
-<li><a href="#RECOMENDACIÓN DE INVERSIÓN">RECOMENDACIÓN DE INVERSIÓN</a></li>
 
-## INTRODUCCIÓN
+## Introducción
 
-Como parte de la etapa de labs de Data Science en Henry se nos asignó en el rol de Data Analyst. Realizar una recomendación de inversión.
+Como parte de la etapa de labs de Ciencia de Datos en Henry, se nos asignó el rol de Data Analyst. 
 
-**> Situación del mercado bursátil en los últimos 23 años**
+El proyecto consistió en proporcionar una recomendación de inversión para una empresa interesada en acciones del índice SP500 en el mercado bursátil. Además, nos solicitaron un análisis de los eventos ocurridos desde el año 2000 en este mercado, evaluando tanto impactos positivos como negativos. 
 
-El mercado bursátil ha experimentado diferentes tendencias y volatilidades en los ùltimos 20 años, aquí algunas hechos más relevantes:
+El objetivo fue realizar un análisis de los datos, identificando patrones, outliers y posibles anomalías para brindar información valiosa a la empresa para tomar decisiones de inversión.
+
+## Objetivo
+
+### Situación del mercado bursátil
+El mercado bursátil ha experimentado diferentes tendencias y volatilidades en los últimos 23 años, aquí algunas hechos más relevantes:
 
 1. El auge de las empresas de tecnología: En la década de 1990, hubo un auge en las empresas de tecnología, especialmente en el sector de Internet. Esto llevó a un aumento en el índice NASDAQ, que alcanzó su punto máximo en marzo de 2000 antes de sufrir una corrección significativa.
 
@@ -33,28 +49,23 @@ El mercado bursátil ha experimentado diferentes tendencias y volatilidades en l
 
 En resumen, el mercado bursátil ha experimentado muchas tendencias y volatilidades en los últimos 23 años, pero ha demostrado ser bastante resistente y capaz de recuperarse de las caídas significativas.
 
-## OBJETIVO
+### Dashboard
 
-+ Situación del mercado bursátil en los últimos 23 años
-    + Lectura
-    + Visión de mercado
-+ Recomendación de inversión
-+ Información complementaria
+[Dashboard Stock Market](https://drive.google.com/file/d/1_E5f8k3WCu7c33-9eIloDEBn0Xh75fEE/view?usp=share_link)
 
 
-## WORKFLOW
+### Recomendación de inversión
 
-El flujo de trabajo consistió en las siguientes etapas del proyecto de Recomendación de inversión.
+<a href="https://finance.yahoo.com/quote/XLK?p=XLK&.tsrc=fin-srch"><img src="https://i.ibb.co/FsYnLxn/XLK.png" alt="XLK" border="0"></a>
 
-+ Fuentes de información
-+ EDA
-+ Dashboard
-+ Informe
+## EDA
+EL proceso de EDA consistió en utilizar técnicas y herramientas para analizar y explorar los datos con el objetivo de obtener información útil para realizar la recomendación de inversión. 
 
+En los notebooks EDA_S&P500 y EDA_ETF encontrarán toda los pasos e instrucciones necesarias para para realizar el procesamiento de los datos.
 
-DESCRIPCIÓN S&P500
+DICCIONARIO DE DATOS
 
-| Identificador | Detalle | 
+| Features | Descripción | 
 | --- | --- | 
 | Open | Precio de apertura de una acción en un día determinado.| 
 | High | Precio más alto alcanzado por una acción en un día determinado. | 
@@ -65,24 +76,9 @@ DESCRIPCIÓN S&P500
 | GICS Sector | El sector GICS (Global Industry Classification Standard) al que pertenece una acción en particular. | 
 | GICS Sub-Industry | La sub-industria GICS a la que pertenece una acción en particular.  | 
 
-## EDA(ETL)
+## Stack tecnológico
 
-EL proceso de EDA consistió en utilizar técnicas y herramientas para analizar y explorar los datos con el objetivo de obtener información útil para realizar nuestra Recomendación de inversión.
-
-[Datasets](https://drive.google.com/drive/folders/1HLLncYgMg35GiNtqYbf_btUYVTNELbLh?usp=share_link)
-
-## DASHBOARD
-
-[Dashboard Stock Market](https://drive.google.com/file/d/1_E5f8k3WCu7c33-9eIloDEBn0Xh75fEE/view?usp=share_link)
-
-
-## VISIÓN DE MERCADO
-
-<a href="https://ibb.co/P4mcx94"><img src="https://i.ibb.co/ft1kMnt/stock-Market.png" alt="stock-Market" border="0"></a>
-
-
-## RECOMENDACIÓN DE INVERSIÓN
-
-<a href="https://finance.yahoo.com/quote/XLK?p=XLK&.tsrc=fin-srch"><img src="https://i.ibb.co/FsYnLxn/XLK.png" alt="XLK" border="0"></a>
-
-
++ Python
++ Power BI
++ Yfinance
++ Web Scrapping
