@@ -1,6 +1,6 @@
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/crQFVxr/P2.png" alt="space" width="1000" height="450"></a>
+<a href="https://imgbb.com/"><img src="https://github.com/Adapa22/StockMarket/blob/main/assets/sm.PNG" alt="space" ></a>
 
 
 <!-- TABLA DE CONTENIDO -->
